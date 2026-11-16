@@ -6,7 +6,7 @@ A head-to-head presentation duel scoreboard and weighted voting platform with re
 
 ## Background
 
-Built to turn passive classroom presentations into active technical debates. Students were tuning out during student-led seminars, so we turned the session into a head-to-head debate with real-time comprehension checks and weighted voting. Built in [Month Year] for [Course/Context], it has been used in [number] live sessions with [number] students.
+Built to turn passive classroom presentations into active technical debates. Students were tuning out during student-led seminars, so we turned the session into a head-to-head debate with real-time comprehension checks and weighted voting.
 
 ---
 
